@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front end path at Mate academy
 
 - 📫 avelychko@icloud.com
-- t.me/svavillya
+- https://t.me/svavillya
 
 <!---
 Svavillya/Svavillya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
